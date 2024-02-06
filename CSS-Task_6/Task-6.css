@@ -1,0 +1,18 @@
+
+#form1{height: fit-content;
+        width: fit-content;
+        text-align: justify;
+       background-color: rgb(250, 247, 242);
+       
+        
+} 
+body
+{
+        height: 100%;
+        width: 100%;
+        background-image: url("/CSS-Task_6/T6-bacground.jpg");
+        background-size: cover;
+}
+button{
+        background-color: purple;
+}

@@ -1,0 +1,10 @@
+body{ 
+    background-image:url(/CSS-Task_7/T7-Airbnb.jpg) ;
+    background-repeat: no-repeat;
+
+}
+pre{
+    color: rgb(72, 87, 73);
+}
+button{ color: azure;
+    background-color: black;}
